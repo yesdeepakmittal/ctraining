@@ -1,4 +1,8 @@
 # Natural Language Processing
+- [Research Groups🔻](https://github.com/yesdeepakmittal/NLP#research-groups)
+- [Video Tutorials🔻](https://github.com/yesdeepakmittal/NLP#some-video-tutorials)
+- [Reading Material🔻](https://github.com/yesdeepakmittal/NLP#readings-material)
+- [Conferences🔻](https://github.com/yesdeepakmittal/NLP#conferences)
 
 ### Research Groups
 - [Cognitive Computation Group @UPenn](https://cogcomp.seas.upenn.edu/)
@@ -12,3 +16,6 @@
 ### Readings Material
 - [Stemming vs Lemmatization](https://towardsdatascience.com/stemming-vs-lemmatization-2daddabcb221)
 - [Bag of Words](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
+
+### Conferences
+- [International Conference on Machine Learning(ICML)](https://icml.cc/)
