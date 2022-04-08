@@ -3,10 +3,14 @@
 - [Video Tutorials🔻](https://github.com/yesdeepakmittal/NLP#some-video-tutorials)
 - [Reading Material🔻](https://github.com/yesdeepakmittal/NLP#readings-material)
 - [Conferences🔻](https://github.com/yesdeepakmittal/NLP#conferences)
+- [Projects🔻](https://github.com/yesdeepakmittal/NLP#projects)
 
 ### Research Groups
 - [Cognitive Computation Group @UPenn](https://cogcomp.seas.upenn.edu/)
 - [The Stanford Natural Language Processing Group](https://nlp.stanford.edu/)
+
+### Projects
+- [Fake News Classifier App](https://huggingface.co/spaces/yesdeepakmittal/fake-news-classifier)
 
 
 ### Some Video Tutorials
