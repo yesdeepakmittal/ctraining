@@ -2,7 +2,8 @@
 
 ### Abstract and Citation
 
-`@inproceedings{10.5555/2999134.2999257,
+```bibtex
+@inproceedings{10.5555/2999134.2999257,
 author = {Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E.},
 title = {ImageNet Classification with Deep Convolutional Neural Networks},
 year = {2012},
@@ -15,4 +16,4 @@ numpages = {9},
 location = {Lake Tahoe, Nevada},
 series = {NIPS'12}
 }
-`
+```
